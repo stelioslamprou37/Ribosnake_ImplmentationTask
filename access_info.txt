@@ -1,0 +1,15 @@
+
+Title: Access information for RiboSnake pipeline and data source
+
+1. Pipeline Repository:
+   - Name: RiboSnake
+   - Description: A QIIME2-based, Snakemake workflow for 16S rRNA gene microbiome analysis.
+   - Repository URL: https://github.com/IKIM-Essen/RiboSnake
+
+2. Data Source for Testing:
+   - Description: FASTQ files used for pipeline testing (from QIIME2 tutorial data).
+   - Download URL: https://data.qiime2.org/2022.2/tutorials/importing/casava-18-paired-end-demultiplexed.zip
+
+3. Summary:
+   - The pipeline can be cloned or downloaded from GitHub.
+   - Testing data is publicly available from the QIIME2 data repository.
