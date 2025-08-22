@@ -1,0 +1,1 @@
+Bar plot showing the absolute abundance of bacterial genera in the samples on a logarithmic scale.
